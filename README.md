@@ -2,7 +2,7 @@
 
 Basic Elixir example app with Cowboy 2 HTTP Server & Plug.
 
-## Installation
+## Installation / INSTALAÇÃO 
 
 ```bash
 mix deps.get
